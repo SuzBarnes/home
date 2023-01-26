@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.7fef4e80.css",
+    "main.js": "/home/static/js/main.47740439.js",
+    "static/media/virtual-pet.png": "/home/static/media/virtual-pet.fb684f438457978994cd.png",
+    "static/media/SantaDraws.png": "/home/static/media/SantaDraws.f42f661601489bb42551.png",
+    "static/media/Sbarnes.jpg": "/home/static/media/Sbarnes.e70a21f6c58ddf6a6d40.jpg",
+    "static/media/weather-app.png": "/home/static/media/weather-app.f21a3d325a0b82687fc1.png",
+    "static/media/cruise-ships.png": "/home/static/media/cruise-ships.ac320fd4cc133b246698.png",
+    "index.html": "/home/index.html",
+    "main.7fef4e80.css.map": "/home/static/css/main.7fef4e80.css.map",
+    "main.47740439.js.map": "/home/static/js/main.47740439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fef4e80.css",
+    "static/js/main.47740439.js"
+  ]
+}
