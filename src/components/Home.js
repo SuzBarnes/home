@@ -8,12 +8,12 @@ const Home = () => {
       <div className="home-image">
         <img src={require("../images/Sbarnes.jpg")} alt="" />
       </div>
-      <p>
+      <p className="para">
         I am a dentist turned developer and after a 6 month part time bootcamp
         with <a href="https://www.commandshift.co/">Command Shift</a> (MCR
         codes) I am breaking into the software developer world.
       </p>
-      <p>
+      <p className="para">
         Please have a read of my blog to learn more about me and my journey into
         tech. It was the hardest 6 months of my life, but (I am hoping) well
         worth it.
