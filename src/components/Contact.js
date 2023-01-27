@@ -8,12 +8,12 @@ const Contact = () => {
   return (
     <div>
       <h2>Contact Me</h2>
-      <p>
+      <p className="para">
         If you have any questions or comments, especially about my journey into
         tech, please feel free to reach out and chat to me!
       </p>
 
-      <p>
+      <p className="para">
         It is scary abandoning your current career path and the more people you
         use as a soundboard, the more confident you will feel.
       </p>
