@@ -9,17 +9,17 @@ const NavBar = () => {
         <ul>
           <li>
             <Link className="contact" to="contact">
-              <div>Contact</div>
+              Contact
             </Link>
           </li>
           <li>
             <Link className="projects" to="projects">
-              <div>Projects</div>
+              Projects
             </Link>
           </li>
           <li>
             <Link className="blog" to="blog">
-              <div>Blog</div>
+              Blog
             </Link>
           </li>
         </ul>
