@@ -1,7 +1,7 @@
 {
   "name": "suzbarnes",
   "version": "0.1.0",
-  "homepage": "https://suzbarnes.github.io/home",
+  "homepage": "https://suzbarnes.github.io/home/#",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
