@@ -6,8 +6,6 @@
   },
   "extends": [
     "plugin:react/recommended",
-    "airbnb",
-    "airbnb/hooks",
     "plugin:prettier/recommended"
   ],
   "globals": {
@@ -21,14 +19,24 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": [
+    "react"
+  ],
   "rules": {
-    "quotes": [0],
-    "react/jsx-props-no-spreading": [0],
+    "react/no-unescaped-entities": 0,
+    "quotes": [
+      0
+    ],
+    "react/jsx-props-no-spreading": [
+      0
+    ],
     "react/jsx-filename-extension": [
       1,
       {
-        "extensions": [".js", ".jsx"]
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
       }
     ]
   }
