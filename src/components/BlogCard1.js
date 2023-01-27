@@ -112,7 +112,9 @@ const BlogCard1 = () => {
         <li>3. Dog</li>
         <li>4. Husband</li>
       </ol>
-      <div className="right">(Don't worry, my husband prioritied the dog.)</div>
+      <div className="right">
+        (Don't worry, my husband prioritised the dog.)
+      </div>
 
       <p>
         I have my family and friends who kept encouraging me when I was asking

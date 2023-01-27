@@ -8,6 +8,6 @@ test("renders Hello World", () => {
       <App />
     </BrowserRouter>
   );
-  const helloWorld = screen.getByText(/Contact Me/i);
+  const helloWorld = screen.getByText(/Contact/i);
   expect(helloWorld).toBeInTheDocument();
 });

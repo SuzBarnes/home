@@ -9,7 +9,7 @@ const NavBar = () => {
         <ul>
           <li>
             <Link className="contact" to="contact">
-              <div>Contact Me</div>
+              <div>Contact</div>
             </Link>
           </li>
           <li>
