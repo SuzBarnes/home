@@ -17,20 +17,21 @@ const Contact = () => {
         It is scary abandoning your current career path and the more people you
         use as a soundboard, the more confident you will feel.
       </p>
+      <div className="icons">
+        <FontAwesomeIcon
+          icon={faEnvelope}
+          className="font-awesome"
+          onClick={() => (window.location = "mailto:smbarnesuk@gmail.com")}
+        />
 
-      <FontAwesomeIcon
-        icon={faEnvelope}
-        className="font-awesome"
-        onClick={() => (window.location = "mailto:smbarnesuk@gmail.com")}
-      />
+        <a href="https://linkedin.com/in/suzannah-barnes">
+          <FontAwesomeIcon icon={faLinkedin} className="font-awesome" />
+        </a>
 
-      <a href="https://linkedin.com/in/suzannah-barnes">
-        <FontAwesomeIcon icon={faLinkedin} className="font-awesome" />
-      </a>
-
-      <a href="https://github.com/suzbarnes">
-        <FontAwesomeIcon icon={faGithub} className="font-awesome" />
-      </a>
+        <a href="https://github.com/suzbarnes">
+          <FontAwesomeIcon icon={faGithub} className="font-awesome" />
+        </a>
+      </div>
     </div>
   );
 };
