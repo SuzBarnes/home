@@ -23,7 +23,7 @@ const BlogCard2 = () => {
                 I checked it was a good fit for me by doing some Javascript on{" "}
                 <a href="https://freecodecamp.org">FreeCodeCamp</a> and followed this up
                 by completing Command Shift's{" "}
-                <a href="https://www.commandshift.co/courses/intro/">INTRO course</a> .
+                <a href="https://www.commandshift.co/courses/intro/">INTRO course</a>.
                 I really enjoyed it. That is the first recommendation for you to do
                 before even bothering to read the rest of this!
             </p>
@@ -64,7 +64,7 @@ const BlogCard2 = () => {
             <p>
                 There are multiple different routes in this one. you could study
                 undergraduate Computer Science, or go into doing a Masters conversion
-                course. i haven't fully researched it, because I knew it wouldn't have
+                course. I haven't fully researched it, because I knew it wouldn't have
                 worked for me.
             </p>
             <p>Truth be told, all the options are viable.</p>
@@ -74,7 +74,7 @@ const BlogCard2 = () => {
                 to me, job requirements often asked for a degree in Computer Science.
             </p>
             <p>
-                However, I still managed to get offers without a CompSci degree within a
+                However, I still managed to get offers without a CompSci degree in about a
                 month of graduating my bootcamp.
             </p>
             <h3 className="center">What should I expect in terms of salary?</h3>
